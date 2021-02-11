@@ -1,2 +1,3 @@
-![se+ai](img/se2ai.gif]
+![se+ai](img/se2ai.gif)
+
 
