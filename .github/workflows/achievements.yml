@@ -19,7 +19,7 @@ jobs:
           user: jeongwhanchoi
           template: classic
           base: ""
-          filename: metrics-achievements
+          filename: metrics-achievements.svg
           config_timezone: Asia/Seoul
           plugin_achievements: yes
 #           plugin_achievements_display: compact
