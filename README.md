@@ -1,2 +1,2 @@
 <p><pre align="center">
-<strong>Jeongwhan Choi/</strong> <a href="jeongwhanchoi.me">Homepage</a> / <a href="https://twitter.com/jeongwhan_choi">Twitter</a> / <a href="https://github.com/jeongwhanchoi">GitHub</a> / <a href="https://scholar.google.com/citations?user=3MNElkYAAAAJ&hl=en">Google Scholar</a></pre></p>
+<strong>Jeongwhan Choi/</strong> <a href="www.jeongwhanchoi.me">Homepage</a> / <a href="https://twitter.com/jeongwhan_choi">Twitter</a> / <a href="https://github.com/jeongwhanchoi">GitHub</a> / <a href="https://scholar.google.com/citations?user=3MNElkYAAAAJ&hl=en">Google Scholar</a></pre></p>
