@@ -1,2 +1,2 @@
-<a href="https://metrics.lecoq.io/about/jeongwhanchoi"><img src="github-metrics.svg" align="left" width="47.5%"></img></a>
-<a href="https://metrics.lecoq.io/about/jeongwhanchoi"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
+<p><pre align="center">
+<strong>Jeongwhan Choi/</strong> <a href="jeongwhanchoi.me">Homepage</a> / <a href="https://twitter.com/jeongwhan_choi">Twitter</a> / <a href="https://github.com/jeongwhanchoi">GitHub</a> / <a href="https://scholar.google.com/citations?user=3MNElkYAAAAJ&hl=en">Google Scholar</a></pre></p>
