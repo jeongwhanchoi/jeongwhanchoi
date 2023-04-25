@@ -3,6 +3,7 @@
 
 ### :mega: Great news
 
+- :bread: [GREAD: Graph Neural Reaction-Diffusion Networks](https://arxiv.org/abs/2211.14208) was accepted in ICML 2023.
 - :axe: [Blurring-Sharpening Process Models for Collaborative Filtering](https://arxiv.org/abs/2211.09324) was accepted in SIGIR 2023.
 - :earth_asia: [Climate Modeling with Neural Advection-Diffusion Equation](https://link.springer.com/article/10.1007/s10115-023-01829-2) was accepted in Knowledge and Information Systems (IF=3.205). 
 - :parking: [Prediction-based One-shot Dynamic Parking Pricing](https://dl.acm.org/doi/abs/10.1145/3511808.3557421) was accepted in CIKM 2022.
