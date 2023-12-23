@@ -3,6 +3,7 @@
 
 ### :mega: Great news
 
+- :shopping_cart: [An Attentive Inductive Bias for Sequential Recommendation Beyond the Self-Attention](https://arxiv.org/abs/2312.10325) was accepted in AAAI 2024.
 - :motorway: [Graph Neural Rough Differential Equations for Traffic Forecasting](https://arxiv.org/abs/2303.10909) was accepted in ACM TIST (IF=10.489).
 - :bread: [GREAD: Graph Neural Reaction-Diffusion Networks](https://arxiv.org/abs/2211.14208) was accepted in ICML 2023.
 - :axe: [Blurring-Sharpening Process Models for Collaborative Filtering](https://arxiv.org/abs/2211.09324) was accepted in SIGIR 2023.
