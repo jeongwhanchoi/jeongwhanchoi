@@ -3,6 +3,7 @@
 
 ### :mega: Great news
 
+- :spider_web: [Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh Transformer](https://arxiv.org/abs/2312.12467) was accepted in ICLR 2024.
 - :shopping_cart: [An Attentive Inductive Bias for Sequential Recommendation Beyond the Self-Attention](https://arxiv.org/abs/2312.10325) was accepted in AAAI 2024.
 - :motorway: [Graph Neural Rough Differential Equations for Traffic Forecasting](https://arxiv.org/abs/2303.10909) was accepted in ACM TIST (IF=10.489).
 - :bread: [GREAD: Graph Neural Reaction-Diffusion Networks](https://arxiv.org/abs/2211.14208) was accepted in ICML 2023.
