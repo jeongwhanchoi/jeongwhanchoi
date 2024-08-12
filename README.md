@@ -2,6 +2,7 @@
 <strong>Jeongwhan Choi/</strong> <a href="https://jeongwhanchoi.me">Homepage</a> / <a href="https://twitter.com/jeongwhan_choi">Twitter</a> / <a href="https://github.com/jeongwhanchoi">GitHub</a> / <a href="https://scholar.google.com/citations?user=3MNElkYAAAAJ&hl=en">Google Scholar</a></pre></p>
 
 ### :mega: Great news
+- :chart: [Bridging Dynamic Factor Models and Neural Controlled Differential Equations for Nowcasting GDP](https://github.com/sklim84/NCDENow_CIKM2024) was accepted in CIKM 2024.
 - :panda_face: [PANDA: Expanded Width-Aware Message Passing Beyond Rewiring](https://arxiv.org/abs/2406.03671) was accepted in ICML 2024.
 - :feather: [SVD-AE: Simple Autoencoders for Collaborative Filtering](https://arxiv.org/abs/2405.04746) was accepted in IJCAI 2024.
 - :spider_web: [Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh Transformer](https://arxiv.org/abs/2312.12467) was accepted in ICLR 2024.
