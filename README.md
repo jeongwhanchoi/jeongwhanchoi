@@ -19,4 +19,5 @@
 - :bookmark: [LT-OCF: Learnable-Time ODE-based Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3459637.3482449) was accepted in CIKM 2021.
 
 
-Please check my [homepage](https://www.jeongwhanchoi.me) for my CV and latest update!
+You can check both my [CV](https://github.com/jeongwhanchoi/curriculum-vitae) and [CV of Failures](https://github.com/jeongwhanchoi/CV_of_Failures/blob/main/CV_of_Failures.pdf).
+For more information about me and my work, please visit my [homepage](https://www.jeongwhanchoi.me) and latest updates!
