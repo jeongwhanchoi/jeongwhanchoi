@@ -1,5 +1,6 @@
 <p><pre align="center">
-<strong>Jeongwhan Choi/</strong> <a href="https://jeongwhanchoi.me">Homepage</a> / <a href="https://twitter.com/jeongwhan_choi">Twitter</a> / <a href="https://github.com/jeongwhanchoi">GitHub</a> / <a href="https://scholar.google.com/citations?user=3MNElkYAAAAJ&hl=en">Google Scholar</a></pre></p>
+<strong>Jeongwhan Choi /</strong> <a href="https://jeongwhanchoi.me">Homepage</a> / <a href="https://github.com/jeongwhanchoi/curriculum-vitae/blob/master/curriculum_vitae.pdf">CV</a> / <a href="https://github.com/jeongwhanchoi/CV_of_Failures/blob/main/CV_of_Failures.pdf">CV of Failure</a> / <a href="https://scholar.google.com/citations?user=3MNElkYAAAAJ&hl=en">Google Scholar</a> / <a href="https://www.semanticscholar.org/author/67027632">Semantic Scholar</a> / <a href="https://www.researchgate.net/profile/Jeongwhan-Choi-2">Research Gate</a> / <a href="https://twitter.com/jeongwhan_choi">Twitter</a> / <a href="http://linkedin.com/in/jeongwhanchoi/">LinkedIn</a> / <a href="https://github.com/jeongwhanchoi">GitHub</a> / 
+</pre></p>
 
 ### :mega: Great news
 - :top: [Paper Digest](https://www.paperdigest.org/2024/05/most-influential-aaai-papers-2024-05/) announced that our paper, "[Graph Neural Controlled Differential Equations for Traffic Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/20587)", ranked **14th** among the most influential papers at AAAI 2022. (May 2024)
