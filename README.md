@@ -3,6 +3,7 @@
 </pre></p>
 
 ### :mega: Great news
+- :cookie: [SCONE: A Novel Stochastic Sampling to Generate Contrastive Views and Hard Negative Samples for Recommendation](https://arxiv.org/abs/2405.00287) was accepted in WSDM 2025.
 - :high_brightness: [Graph Convolutions Enrich the Self-Attention in Transformers!](https://arxiv.org/abs/2312.04234) was accepted in NeurIPS 2024.
 - :top: [Paper Digest](https://www.paperdigest.org/2024/05/most-influential-aaai-papers-2024-05/) announced that our paper, "[Graph Neural Controlled Differential Equations for Traffic Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/20587)", ranked **14th** among the most influential papers at AAAI 2022. (May 2024)
 - :chart: [Bridging Dynamic Factor Models and Neural Controlled Differential Equations for Nowcasting GDP](https://arxiv.org/abs/2409.08732) was accepted in CIKM 2024.
