@@ -3,6 +3,7 @@
 </pre></p>
 
 ### :mega: Great news
+- :v: "Learning Advanced Self-Attention for Linear Transformers in the Singular Value Domain" was accepted in IJCAI 2025.
 - :spider_web: [PIORF: Physics-Informed Ollivier-Ricci Flow for Long–Range Interactions in Mesh Graph Neural Networks](https://openreview.net/forum?id=qkBBHixPow) was accepted in ICLR 2025.
 - :trophy: Jeongwhan Choi has won a [2024 Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-south-korea)!
 - :cookie: [SCONE: A Novel Stochastic Sampling to Generate Contrastive Views and Hard Negative Samples for Recommendation](https://arxiv.org/abs/2405.00287) was accepted in WSDM 2025.
