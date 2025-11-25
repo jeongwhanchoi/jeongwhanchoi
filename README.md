@@ -3,6 +3,11 @@
 </pre></p>
 
 ### :mega: Great news
+- 🏆 I received the Best Paper Runner-up Award from KAIST-Samsung Electronics DS Division Industry-Academic Collaboration Program for our paper "Graph Convolutions Enrich the Self-Attention in Transformers!"
+- 🔝 Our paper "Are Graph Transformers Necessary? Efficient Long-Range Message Passing with Fractal Nodes in MPNNs" has been accepted as an oral presentation at AAAI 2026!
+- ⏱️ TV-Rec: Time-Variant Convolutional Filter for Sequential Recommendation was accepted in NeurIPS 2025!
+- 🎓 I have joined the Information & Electronics Research Institute at KAIST as a Post-doctoral Researcher.
+- 🎓 I successfully defended my dissertation and received my Ph.D. in Artificial Intelligence from Yonsei University under the supervision of Prof. Noseong Park and Sung-Bae Cho.
 - :v: [Learning Advanced Self-Attention for Linear Transformers in the Singular Value Domain](https://arxiv.org/abs/2505.08516) was accepted in IJCAI 2025.
 - :spider_web: [PIORF: Physics-Informed Ollivier-Ricci Flow for Long–Range Interactions in Mesh Graph Neural Networks](https://openreview.net/forum?id=qkBBHixPow) was accepted in ICLR 2025.
 - :trophy: Jeongwhan Choi has won a [2024 Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-south-korea)!
