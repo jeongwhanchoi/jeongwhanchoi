@@ -3,7 +3,7 @@
 </pre></p>
 
 ### :mega: Great news
-- 🏆 I received the Best Paper Runner-up Award from KAIST-Samsung Electronics DS Division Industry-Academic Collaboration Program for our paper "Graph Convolutions Enrich the Self-Attention in Transformers!"
+- 🏆 I received the Best Paper Runner-up Award from [KAIST-Samsung Electronics DS Division Industry-Academic Collaboration Program](https://research.kaist.ac.kr/page/ko/selectPage.do?menuSeq=3605&pageSeq=3685) for our paper "Graph Convolutions Enrich the Self-Attention in Transformers!"
 - 🔝 Our paper "[Are Graph Transformers Necessary? Efficient Long-Range Message Passing with Fractal Nodes in MPNNs](https://arxiv.org/abs/2511.13010)" has been accepted as an oral presentation at AAAI 2026!
 - ⏱️ [TV-Rec: Time-Variant Convolutional Filter for Sequential Recommendation](https://arxiv.org/abs/2510.25259) was accepted in NeurIPS 2025!
 - 🎓 I have joined the Information & Electronics Research Institute at KAIST as a Post-doctoral Researcher.
