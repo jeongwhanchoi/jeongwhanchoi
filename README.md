@@ -3,6 +3,7 @@
 </pre></p>
 
 ### :mega: Great news
+- 🏆 I was selected as a recipient of the 2026 Jang Young Sil Fellow Program (Excellence Track), awarded by KAIST's Office of Research Affairs.
 - :unlock: "[Learning Posterior Predictive Distributions for Node Classification from Synthetic Graph Priors](https://openreview.net/forum?id=FmxRzlu0rT)" was accepted in ICLR 2026!
 - 🏆 I received the Best Paper Runner-up Award from [KAIST-Samsung Electronics DS Division Industry-Academic Collaboration Program](https://research.kaist.ac.kr/page/ko/selectPage.do?menuSeq=3605&pageSeq=3685) for our paper "Graph Convolutions Enrich the Self-Attention in Transformers!"
 - 🔝 Our paper "[Are Graph Transformers Necessary? Efficient Long-Range Message Passing with Fractal Nodes in MPNNs](https://arxiv.org/abs/2511.13010)" has been accepted as an oral presentation at AAAI 2026!
