@@ -3,10 +3,10 @@
 </pre></p>
 
 ### :mega: Great news
-- 📋 "[https://arxiv.org/abs/2606.13443 How Much Memory Do We Need? Adaptive Memory Gate for Neural Operators]" was accepted for an AI4Physics workshop at ICML 2026.
+- 📋 "[How Much Memory Do We Need? Adaptive Memory Gate for Neural Operators](https://arxiv.org/abs/2606.13443)" was accepted for an AI4Physics workshop at ICML 2026.
 - :shopping_cart: A paper I co-authored, "One Sequential Recommendation Model Pretrained from Synthetic Priors Predicts Multiple Datasets," was accepted to KDD 2026 (Research Track).
 - 🔝 Received the [assets/award/ICML2026-Gold_Reviewer.pdf Gold Reviewer Award] at ICML 2026.
-- 📰 Our AAAI 2026 paper, "[Are Graph Transformers Necessary? Efficient Long-Range Message Passing with Fractal Nodes in MPNNs](https://arxiv.org/abs/2511.13010)", was featured in the [https://nairl.kr/nairl-tech-horizon-neurips-2025%ec%99%80-aaai-2026/ NAIRL Tech Horizon report on NeurIPS 2025 and AAAI 2026] as one of the representative research outcomes from the [https://nairl.kr/ National AI Research Lab].
+- 📰 Our AAAI 2026 paper, "[Are Graph Transformers Necessary? Efficient Long-Range Message Passing with Fractal Nodes in MPNNs](https://arxiv.org/abs/2511.13010)", was featured in the [NAIRL Tech Horizon report on NeurIPS 2025 and AAAI 2026](https://nairl.kr/nairl-tech-horizon-neurips-2025%ec%99%80-aaai-2026/) as one of the representative research outcomes from the [National AI Research Lab](https://nairl.kr/).
 - 🏆 I was selected as a recipient of the 2026 Jang Young Sil Fellow Program (Excellence Track), awarded by KAIST's Office of Research Affairs.
 - :unlock: "[Learning Posterior Predictive Distributions for Node Classification from Synthetic Graph Priors](https://openreview.net/forum?id=FmxRzlu0rT)" was accepted in ICLR 2026!
 - 🏆 I received the Best Paper Runner-up Award from [KAIST-Samsung Electronics DS Division Industry-Academic Collaboration Program](https://research.kaist.ac.kr/page/ko/selectPage.do?menuSeq=3605&pageSeq=3685) for our paper "Graph Convolutions Enrich the Self-Attention in Transformers!"
