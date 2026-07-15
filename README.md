@@ -140,25 +140,17 @@
 | [Neural-Diffusion-Equation](https://github.com/jeongwhanchoi/Neural-Diffusion-Equation) | Climate Modeling with Neural Diffusion Equations | ICDM 2021 | ![](https://img.shields.io/github/stars/jeongwhanchoi/Neural-Diffusion-Equation?style=social) |
 
 
-**🎓 Undergraduate & Early Projects —Embedded & Systems**
+**🎓 Undergraduate & Early Projects**
  
-| Repo | Description | Context | Stars |
+| Repo | Description | Area | Stars |
 |---|---|---|---|
-| [Smart-Mailbox](https://github.com/jeongwhanchoi/Smart-Mailbox) | Arduino-based smart mailbox (Embedded Software course project) | Arduino | ![](https://img.shields.io/github/stars/jeongwhanchoi/Smart-Mailbox?style=social) |
-| [ARM-CortexM3-Examples](https://github.com/jeongwhanchoi/ARM-CortexM3-Examples) | ARM Cortex-M3 (Huins LPC1768) embedded examples | ARM | ![](https://img.shields.io/github/stars/jeongwhanchoi/ARM-CortexM3-Examples?style=social) |
-| [StackPointerTest](https://github.com/jeongwhanchoi/StackPointerTest) | ARM assembly on the VisUAL ARM emulator | ARM | ![](https://img.shields.io/github/stars/jeongwhanchoi/StackPointerTest?style=social) |
- 
-**🤖 Undergraduate & Early Projects — Machine Learning & Computer Vision**
- 
-| Repo | Description | Context | Stars |
-|---|---|---|---|
-| [MLND-Capstone-Project](https://github.com/jeongwhanchoi/MLND-Capstone-Project) | Iceberg vs. ship classification from SAR images (CNN + transfer learning) — basis of my first journal paper (2018) | Udacity MLND | ![](https://img.shields.io/github/stars/jeongwhanchoi/MLND-Capstone-Project?style=social) |
-| [object-detection](https://github.com/jeongwhanchoi/object-detection) | Vehicle detection pipeline (HOG features + sliding window + heat-map) | Udacity SDCND | ![](https://img.shields.io/github/stars/jeongwhanchoi/object-detection?style=social) |
-| [CarND-Behavioral-Cloning](https://github.com/jeongwhanchoi/CarND-Behavioral-Cloning) | End-to-end steering via CNN (behavioral cloning) | Udacity SDCND | ![](https://img.shields.io/github/stars/jeongwhanchoi/CarND-Behavioral-Cloning?style=social) |
-| [CarND-Traffic-Sign-Classifier](https://github.com/jeongwhanchoi/CarND-Traffic-Sign-Classifier) | German Traffic Sign recognition (CNN) | Udacity SDCND | ![](https://img.shields.io/github/stars/jeongwhanchoi/CarND-Traffic-Sign-Classifier?style=social) |
-| [CarND-Advanced-Lane-Lines](https://github.com/jeongwhanchoi/CarND-Advanced-Lane-Lines) | Lane detection with perspective transform & polynomial fitting | Udacity SDCND | ![](https://img.shields.io/github/stars/jeongwhanchoi/CarND-Advanced-Lane-Lines?style=social) |
-| [dog-breed-classifier](https://github.com/jeongwhanchoi/dog-breed-classifier) | Dog breed classification (CNN transfer learning) | Udacity MLND | ![](https://img.shields.io/github/stars/jeongwhanchoi/dog-breed-classifier?style=social) |
-| [TrackML-Particle-Tracking](https://github.com/jeongwhanchoi/TrackML-Particle-Tracking) | High-energy physics particle tracking in CERN detectors | Kaggle | ![](https://img.shields.io/github/stars/jeongwhanchoi/TrackML-Particle-Tracking?style=social) |
+| [helicopter_battle](https://github.com/jeongwhanchoi/helicopter_battle) | Helicopter Battle game (game improvement project) | SE / Java | ![](https://img.shields.io/github/stars/jeongwhanchoi/helicopter_battle?style=social) |
+| [recipe-assistant-app](https://github.com/jeongwhanchoi/recipe-assistant-app) | Recipe Assistant application | SE / Java | ![](https://img.shields.io/github/stars/jeongwhanchoi/recipe-assistant-app?style=social) |
+| [Smart-Mailbox](https://github.com/jeongwhanchoi/Smart-Mailbox) | Arduino-based smart mailbox (Embedded Software course project) | Embedded | ![](https://img.shields.io/github/stars/jeongwhanchoi/Smart-Mailbox?style=social) |
+| [ARM-CortexM3-Examples](https://github.com/jeongwhanchoi/ARM-CortexM3-Examples) | ARM Cortex-M3 (Huins LPC1768) embedded examples | Embedded | ![](https://img.shields.io/github/stars/jeongwhanchoi/ARM-CortexM3-Examples?style=social) |
+| [MLND-Capstone-Project](https://github.com/jeongwhanchoi/MLND-Capstone-Project) | Iceberg vs. ship classification from SAR images (CNN + transfer learning) — basis of my first journal paper (2018) | ML / CV | ![](https://img.shields.io/github/stars/jeongwhanchoi/MLND-Capstone-Project?style=social) |
+| [object-detection](https://github.com/jeongwhanchoi/object-detection) | Vehicle detection pipeline (HOG features + sliding window + heat-map) | ML / CV | ![](https://img.shields.io/github/stars/jeongwhanchoi/object-detection?style=social) |
+| [CarND-Behavioral-Cloning](https://github.com/jeongwhanchoi/CarND-Behavioral-Cloning) | End-to-end steering via CNN (behavioral cloning) | ML / CV | ![](https://img.shields.io/github/stars/jeongwhanchoi/CarND-Behavioral-Cloning?style=social) |
 
 
 **🛠️ Tools & Utilities**
