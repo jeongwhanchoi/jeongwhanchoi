@@ -85,6 +85,13 @@
 
 ### 📂 Selected Repositories
 
+**🧩 Graph Foundation Models / Prior-data Fitted Networks**
+
+| Repo | Paper | Venue | Stars |
+|---|---|---|---|
+| [NodePFN](https://github.com/jeongwhanchoi/NodePFN) | Learning Posterior Predictive Distributions for Node Classification from Synthetic Graph Priors | ICLR 2026 | ![](https://img.shields.io/github/stars/jeongwhanchoi/NodePFN?style=social) |
+
+
 **🌊 Physics-inspired & Differential Equation-based GNNs**
 
 | Repo | Paper | Venue | Stars |
@@ -92,14 +99,24 @@
 | [STG-NCDE](https://github.com/jeongwhanchoi/STG-NCDE) | Graph Neural Controlled Differential Equations for Traffic Forecasting | AAAI 2022 (Oral) | ![](https://img.shields.io/github/stars/jeongwhanchoi/STG-NCDE?style=social) |
 | [GREAD](https://github.com/jeongwhanchoi/GREAD) | GREAD: Graph Neural Reaction-Diffusion Networks | ICML 2023 | ![](https://img.shields.io/github/stars/jeongwhanchoi/GREAD?style=social) |
 | [STG-NRDE](https://github.com/jeongwhanchoi/STG-NRDE) | Graph Neural Rough Differential Equations for Traffic Forecasting | ACM TIST | ![](https://img.shields.io/github/stars/jeongwhanchoi/STG-NRDE?style=social) |
+| [Neural-Diffusion-Equation](https://github.com/jeongwhanchoi/Neural-Diffusion-Equation) | Climate Modeling with Neural Diffusion Equations | ICDM 2021 | ![](https://img.shields.io/github/stars/jeongwhanchoi/Neural-Diffusion-Equation?style=social) |
 
 **🔀 Over-smoothing, Over-squashing & Graph Transformers**
 
 | Repo | Paper | Venue | Stars |
 |---|---|---|---|
+| [GREAD](https://github.com/jeongwhanchoi/GREAD) | GREAD: Graph Neural Reaction-Diffusion Networks | ICML 2023 | ![](https://img.shields.io/github/stars/jeongwhanchoi/GREAD?style=social) |
 | [PANDA](https://github.com/jeongwhanchoi/PANDA) | PANDA: Expanded Width-Aware Message Passing Beyond Rewiring | ICML 2024 | ![](https://img.shields.io/github/stars/jeongwhanchoi/PANDA?style=social) |
 | [MPNN-FN](https://github.com/jeongwhanchoi/MPNN-FN) | Are Graph Transformers Necessary? Long-Range Message Passing with Fractal Nodes | AAAI 2026 (Oral) | ![](https://img.shields.io/github/stars/jeongwhanchoi/MPNN-FN?style=social) |
 | [GFSA](https://github.com/jeongwhanchoi/GFSA) | Graph Convolutions Enrich the Self-Attention in Transformers! | NeurIPS 2024 | ![](https://img.shields.io/github/stars/jeongwhanchoi/GFSA?style=social) |
+
+**🎛️ Transformers, Attention & Signal Processing**
+ 
+| Repo | Paper | Venue | Stars |
+|---|---|---|---|
+| [GFSA](https://github.com/jeongwhanchoi/GFSA) | Graph Convolutions Enrich the Self-Attention in Transformers! | NeurIPS 2024 | ![](https://img.shields.io/github/stars/jeongwhanchoi/GFSA?style=social) |
+| [AGF](https://github.com/jeongwhanchoi/AGF) | Learning Advanced Self-Attention for Linear Transformers in the Singular Value Domain | IJCAI 2025 | ![](https://img.shields.io/github/stars/jeongwhanchoi/AGF?style=social) |
+
 
 **🛒 Recommender Systems**
 
@@ -110,13 +127,39 @@
 | [BSARec](https://github.com/jeongwhanchoi/BSARec) | An Attentive Inductive Bias for Sequential Recommendation | AAAI 2024 | ![](https://img.shields.io/github/stars/jeongwhanchoi/BSARec?style=social) |
 | [SVD-AE](https://github.com/jeongwhanchoi/SVD-AE) | SVD-AE: Simple Autoencoders for Collaborative Filtering | IJCAI 2024 | ![](https://img.shields.io/github/stars/jeongwhanchoi/SVD-AE?style=social) |
 | [SCONE](https://github.com/jeongwhanchoi/SCONE) | Stochastic Sampling for Contrastive Views & Hard Negatives | WSDM 2025 | ![](https://img.shields.io/github/stars/jeongwhanchoi/SCONE?style=social) |
+| [TV-Rec](https://github.com/jeongwhanchoi/TV-Rec) | Time-Variant Convolutional Filter for Sequential Recommendation | NeurIPS 2025 | ![](https://img.shields.io/github/stars/jeongwhanchoi/TV-Rec?style=social) |
 
-**🎓 Undergraduate & Early Projects (Software Engineering background)**
+**🌍 Spatiotemporal & Real-world Applications**
+ 
+| Repo | Paper | Venue | Stars |
+|---|---|---|---|
+| [DDI-OCF](https://github.com/jeongwhanchoi/DDI-OCF) | Predicting Drug-Drug Interactions via GCN-based Collaborative Filtering | AI in Medicine 2025 | ![](https://img.shields.io/github/stars/jeongwhanchoi/DDI-OCF?style=social) |
+| [STG-NRDE](https://github.com/jeongwhanchoi/STG-NRDE) | Graph Neural Rough Differential Equations for Traffic Forecasting | ACM TIST | ![](https://img.shields.io/github/stars/jeongwhanchoi/STG-NRDE?style=social) |
+| [STG-NCDE](https://github.com/jeongwhanchoi/STG-NCDE) | Graph Neural Controlled Differential Equations for Traffic Forecasting | AAAI 2022 (Oral) | ![](https://img.shields.io/github/stars/jeongwhanchoi/STG-NCDE?style=social) |
+| [one-shot-optimization](https://github.com/jeongwhanchoi/one-shot-optimization) | Prediction-based One-shot Dynamic Parking Pricing | CIKM 2022 | ![](https://img.shields.io/github/stars/jeongwhanchoi/one-shot-optimization?style=social) |
+| [Neural-Diffusion-Equation](https://github.com/jeongwhanchoi/Neural-Diffusion-Equation) | Climate Modeling with Neural Diffusion Equations | ICDM 2021 | ![](https://img.shields.io/github/stars/jeongwhanchoi/Neural-Diffusion-Equation?style=social) |
 
+
+**🎓 Undergraduate & Early Projects —Embedded & Systems**
+ 
+| Repo | Description | Context | Stars |
+|---|---|---|---|
+| [Smart-Mailbox](https://github.com/jeongwhanchoi/Smart-Mailbox) | Arduino-based smart mailbox (Embedded Software course project) | Arduino | ![](https://img.shields.io/github/stars/jeongwhanchoi/Smart-Mailbox?style=social) |
+| [ARM-CortexM3-Examples](https://github.com/jeongwhanchoi/ARM-CortexM3-Examples) | ARM Cortex-M3 (Huins LPC1768) embedded examples | ARM | ![](https://img.shields.io/github/stars/jeongwhanchoi/ARM-CortexM3-Examples?style=social) |
+| [StackPointerTest](https://github.com/jeongwhanchoi/StackPointerTest) | ARM assembly on the VisUAL ARM emulator | ARM | ![](https://img.shields.io/github/stars/jeongwhanchoi/StackPointerTest?style=social) |
+ 
+**🤖 Undergraduate & Early Projects — Machine Learning & Computer Vision**
+ 
 | Repo | Description | Context | Stars |
 |---|---|---|---|
 | [MLND-Capstone-Project](https://github.com/jeongwhanchoi/MLND-Capstone-Project) | Iceberg vs. ship classification from SAR images (CNN + transfer learning) — basis of my first journal paper (2018) | Udacity MLND | ![](https://img.shields.io/github/stars/jeongwhanchoi/MLND-Capstone-Project?style=social) |
 | [object-detection](https://github.com/jeongwhanchoi/object-detection) | Vehicle detection pipeline (HOG features + sliding window + heat-map) | Udacity SDCND | ![](https://img.shields.io/github/stars/jeongwhanchoi/object-detection?style=social) |
+| [CarND-Behavioral-Cloning](https://github.com/jeongwhanchoi/CarND-Behavioral-Cloning) | End-to-end steering via CNN (behavioral cloning) | Udacity SDCND | ![](https://img.shields.io/github/stars/jeongwhanchoi/CarND-Behavioral-Cloning?style=social) |
+| [CarND-Traffic-Sign-Classifier](https://github.com/jeongwhanchoi/CarND-Traffic-Sign-Classifier) | German Traffic Sign recognition (CNN) | Udacity SDCND | ![](https://img.shields.io/github/stars/jeongwhanchoi/CarND-Traffic-Sign-Classifier?style=social) |
+| [CarND-Advanced-Lane-Lines](https://github.com/jeongwhanchoi/CarND-Advanced-Lane-Lines) | Lane detection with perspective transform & polynomial fitting | Udacity SDCND | ![](https://img.shields.io/github/stars/jeongwhanchoi/CarND-Advanced-Lane-Lines?style=social) |
+| [dog-breed-classifier](https://github.com/jeongwhanchoi/dog-breed-classifier) | Dog breed classification (CNN transfer learning) | Udacity MLND | ![](https://img.shields.io/github/stars/jeongwhanchoi/dog-breed-classifier?style=social) |
+| [TrackML-Particle-Tracking](https://github.com/jeongwhanchoi/TrackML-Particle-Tracking) | High-energy physics particle tracking in CERN detectors | Kaggle | ![](https://img.shields.io/github/stars/jeongwhanchoi/TrackML-Particle-Tracking?style=social) |
+
 
 **🛠️ Tools & Utilities**
 
