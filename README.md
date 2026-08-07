@@ -5,7 +5,7 @@
 
 ### 📣 News
 
-- (May 26, 2025) "[How Much Memory Do We Need? Adaptive Memory Gate for Neural Operators](https://arxiv.org/abs/2606.13443)" was accepted for an AI4Physics workshop at ICML 2026.
+- (May 26, 2026) "[How Much Memory Do We Need? Adaptive Memory Gate for Neural Operators](https://arxiv.org/abs/2606.13443)" was accepted for an AI4Physics workshop at ICML 2026.
 - (May 16, 2026) A paper I co-authored, "[One Sequential Recommendation Model Pretrained from Synthetic Priors Predicts Multiple Datasets](https://arxiv.org/abs/2606.15752)," was accepted to KDD 2026 (Research Track).
 - (May 14, 2026) Received the [Gold Reviewer Award](assets/award/ICML2026-Gold_Reviewer.pdf) at ICML 2026.
 - (Apr 28, 2026) Our AAAI 2026 paper was featured in the [NAIRL Tech Horizon report on NeurIPS 2025 and AAAI 2026](https://nairl.kr/nairl-tech-horizon-neurips-2025%ec%99%80-aaai-2026/) as one of the representative research outcomes from the [National AI Research Lab](https://nairl.kr/).
